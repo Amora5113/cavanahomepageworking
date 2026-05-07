@@ -5,7 +5,7 @@ import './assets/background.css'
 import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode basename="/cavanahomepageworking">
+  <StrictMode /*basename="/cavanahomepageworking"*/>
     <App />
   </StrictMode>,
 )
