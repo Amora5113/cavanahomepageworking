@@ -1,5 +1,5 @@
 
-import Logo from "../src/assets/cavana.png"
+import Logo from "./cavana.png"
 
 const Hero = () => {
   return (
