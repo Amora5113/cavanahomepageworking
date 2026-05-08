@@ -2,7 +2,7 @@
   "name": "cavanahomepageworking",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://amora5113.github.io/CavanaHomePageWorking/",
+  "homepage": "https://amora5113.github.io/cavanahomepageworking/",
   "type": "module",
   "scripts": {
     "dev": "vite",
